@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "karthik",
+      "age": 31
+    }
+  ],
+  "posts": [
+    {
+      "name": "This is second post",
+      "description": "This is my second post description"
+    }
+  ]
+}
